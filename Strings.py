@@ -1,3 +1,9 @@
+# A String is sequence of Unicode characters.
+# We can use single quotes or double quotes to represent strings.
+# Multi-line strings can be denoted using triple quotes, ''' or """
+# Strings are immutable
+
+
 print("yolo")
 
 # how to create a new line in string string
