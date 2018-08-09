@@ -35,12 +35,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="6737" />
+          <entry key="py" value="6785" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="6737" />
+          <entry key="Python" value="6785" />
         </counts>
       </usages-collector>
     </session>
@@ -48,19 +48,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Conversion between Data Types.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data Types.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="74" column="18" lean-forward="true" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
+            <state relative-caret-position="343">
+              <caret line="88" column="92" selection-start-line="88" selection-start-column="92" selection-end-line="88" selection-end-column="92" />
             </state>
           </provider>
         </entry>
@@ -85,12 +76,12 @@
         <option value="$PROJECT_DIR$/Hello World.py" />
         <option value="$PROJECT_DIR$/Numbers.py" />
         <option value="$PROJECT_DIR$/Strings.py" />
-        <option value="$PROJECT_DIR$/Data Types.py" />
         <option value="$PROJECT_DIR$/Conversion between Data Types.py" />
+        <option value="$PROJECT_DIR$/Data Types.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="128" />
     <option name="y" value="-11" />
     <option name="width" value="1400" />
@@ -130,7 +121,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Conversion between Data Types">
+  <component name="RunManager" selected="Python.Data Types">
     <configuration name="Conversion between Data Types" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,8 +236,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Conversion between Data Types" />
         <item itemvalue="Python.Data Types" />
+        <item itemvalue="Python.Conversion between Data Types" />
         <item itemvalue="Python.Numbers" />
         <item itemvalue="Python.Strings" />
         <item itemvalue="Python.Hello World" />
@@ -267,15 +258,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13307984" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13307984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49936628" weight="0.31266847" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49936628" visible="true" weight="0.31266847" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -331,17 +322,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Types.py">
+    <entry file="file://$PROJECT_DIR$/Conversion between Data Types.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="74" column="18" lean-forward="true" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
+        <state relative-caret-position="391">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conversion between Data Types.py">
+    <entry file="file://$PROJECT_DIR$/Data Types.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="343">
+          <caret line="88" column="92" selection-start-line="88" selection-start-column="92" selection-end-line="88" selection-end-column="92" />
         </state>
       </provider>
     </entry>

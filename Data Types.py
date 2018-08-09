@@ -26,7 +26,7 @@ print(a, "is complex number?", isinstance(1+2j,complex))
 # List is an ordered sequence of items. All the items in a list do not need to be of the same type.
 # You can create a list by seperating items with commas and enclosing them in brackets []
 
-a= [1, 2.2, 'python']
+a = [1, 2.2, 'python']
 print("Everything in the a list", a) # Notice how u cant concatenate a list with a string you just separate with a comma
 
 # remeber lists start with the index 0 so the index of 2 in the list a which would be a[2] would be the string python
@@ -34,7 +34,7 @@ print(type(a))
 print ("a[2]= "+a[2])
 
 # Lists are mutable meaning values in the list can be changed
-a[1]= 3.2
+a[1] = 3.2
 print("we changed the index a[1] to 3.2 from 2.2" , a)
 print(a[0:2])
 
@@ -72,7 +72,7 @@ print(type(a))
 print("The set a = ", a)
 # We can perform set operations like union, intersection on two sets. Set have unique values.
 # Sets eliminate duplicates
-a ={1,1,2,2,2,3,3}
+a = {1,1,2,2,2,3,3}
 print(a)
 
 # DICTIONARIES
@@ -86,7 +86,7 @@ print(type(d))
 print(d)
 # We use key to retrieve the respective value. But not the other way around.
 print("the element at index 1 of the dictionary d is \"", d[1], "\"")
-# The example below uses concatination notice no spaces between quotes
+# The example below uses concatination notice no spaces between quotes when you run the code
 print("the element at index 2 of the dictionary d is \""+ d[2]+ "\"")
 
 
