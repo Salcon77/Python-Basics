@@ -3,5 +3,3 @@ The goal is to write a series of basic Python programs that will aid in refreshi
 
 
 ----------------------------------------------
-
-##Glossary
