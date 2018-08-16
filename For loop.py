@@ -14,3 +14,32 @@ for val in numbers:
     sum=sum+val
 
 print(sum)
+
+# We can generate a sequence of numbers using range() function. range(10) will generate numbers
+# from 0 to 9 (10 numbers).
+print(range(10))
+# To get this function to print all numbers between 0-10 we can use the function list()
+print(list(range(10)))
+# note how it starts at 0 and ends at 9 instead of starting at 1 and ending at 10
+
+# We can use the range() function in for loops to iterate through a sequence of numbers.
+# It can be combined with the len() function to iterate though a sequence using indexing.
+
+
+genre = ['pop', 'rock', 'jazz']
+
+# iterate over the list using index
+# it iterates for the len() of the list genere
+for i in range(len(genre)):
+    print("I like", genre[i])
+
+print("the length of the list genere is {}".format(len(genre)))
+
+digits = [0, 1, 5]
+
+
+for i in digits:
+    print(i)
+# Once i is done iterating through every index of the list digit the for loop ends and goes to the else block.
+else:
+    print("No items left.")
