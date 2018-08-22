@@ -12,7 +12,7 @@
     <session id="542957947">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="21" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
@@ -109,8 +109,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="72" />
-    <option name="y" value="223" />
+    <option name="x" value="-278" />
+    <option name="y" value="242" />
     <option name="width" value="1612" />
     <option name="height" value="865" />
   </component>
@@ -302,8 +302,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="72" y="223" width="1612" height="865" extended-state="0" />
-    <editor active="true" />
+    <frame x="-278" y="242" width="1612" height="865" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14866582" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
