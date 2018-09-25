@@ -62,3 +62,4 @@ elif z>=6 and z <=10:
     print("the number you have entered is between 6 and 10")
 else:
     print("the number you have entered is greater than 10")
+
