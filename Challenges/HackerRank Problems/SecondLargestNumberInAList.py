@@ -5,6 +5,7 @@ Given the participants' score sheet for your University Sports Day, you are requ
 The first line contains . The second line contains an array   of  integers each separated by a space.
 Print the runner-up score.
 """
+import math
 # Array of random numbers to test
 arr =[1,2,6,4,87,-9]
 
@@ -21,6 +22,3 @@ for n in arr:
             runnerUp = n
 print(runnerUp)
 
-x=56.0
-round (x,2)
-print(x)
