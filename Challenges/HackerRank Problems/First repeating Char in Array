@@ -1,0 +1,18 @@
+def firstNonRepeating(s):
+    n=len(s)
+    for i in range(n):
+        x=0
+        while (x < n):
+            if (i != x and s[i] == s[x]):
+                break
+            x = x+1
+        if (x == n):
+            return s[i]
+
+    return "all chars repeat"
+
+
+# Driver code
+arr = "mnonmpsms"
+
+print(firstNonRepeating(arr))
