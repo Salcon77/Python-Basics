@@ -12,72 +12,105 @@
     <session id="542957947">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="38" />
+          <entry key="project.closed" value="49" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.18" value="4" />
           <entry key="project.open.time.19" value="3" />
-          <entry key="project.open.time.20" value="4" />
-          <entry key="project.open.time.21" value="2" />
-          <entry key="project.open.time.23" value="3" />
-          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.20" value="5" />
+          <entry key="project.open.time.21" value="3" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="4" />
+          <entry key="project.open.time.24" value="3" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.28" value="3" />
           <entry key="project.open.time.30" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.6" value="5" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="42" />
+          <entry key="project.opened" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="First repeating Char in Array" value="3" />
+          <entry key="First repeating Char in Array" value="5" />
           <entry key="csv" value="3" />
+          <entry key="find missing number" value="1" />
           <entry key="gitattributes" value="1" />
           <entry key="md" value="1" />
-          <entry key="py" value="105" />
+          <entry key="py" value="120" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="108" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="125" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="First repeating Char in Array" value="429" />
+          <entry key="First repeating Char in Array" value="471" />
           <entry key="dummy" value="31" />
           <entry key="md" value="42" />
-          <entry key="py" value="26251" />
+          <entry key="py" value="28162" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="42" />
           <entry key="PLAIN_TEXT" value="31" />
-          <entry key="Python" value="26680" />
+          <entry key="Python" value="28633" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Challenges/HackerRank Problems/First repeating Char in Array">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Challenges/HackerRank Problems/find missing number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <folding>
+                <marker date="1540874358454" expanded="true" signature="244:249" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Challenges/HackerRank Problems/Find Sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/OOP/Operator Overloading.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            <state relative-caret-position="340">
+              <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -126,23 +159,26 @@
         <option value="$PROJECT_DIR$/Data Types/Lists.py" />
         <option value="$PROJECT_DIR$/Challenges/HackerRank Problems/Find the Runner-Up Score!.py" />
         <option value="$PROJECT_DIR$/Challenges/HackerRank Problems/SecondLargestNumberInAList.py" />
-        <option value="$PROJECT_DIR$/Challenges/HackerRank Problems/String Mutation.py" />
         <option value="$PROJECT_DIR$/Challenges/HackerRank Problems/Find Sum.py" />
-        <option value="$PROJECT_DIR$/Challenges/HackerRank Problems/First repeating Char in Array" />
-        <option value="$PROJECT_DIR$/Challenges/HackerRank Problems/evensort.py" />
         <option value="$PROJECT_DIR$/Challenges/HackerRank Problems/bin.py" />
-        <option value="$PROJECT_DIR$/OOP/Classes.py" />
         <option value="$PROJECT_DIR$/OOP/Inheritance.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Challenges/HackerRank Problems/First repeating Char in Array" />
+        <option value="$PROJECT_DIR$/Challenges/HackerRank Problems/find missing number.py" />
+        <option value="$PROJECT_DIR$/Challenges/HackerRank Problems/evensort.py" />
+        <option value="$PROJECT_DIR$/Algorithims/Merge Sort.py" />
+        <option value="$PROJECT_DIR$/Challenges/HackerRank Problems/String Mutation.py" />
+        <option value="$PROJECT_DIR$/Challenges/HackerRank Problems/reverse array.py" />
+        <option value="$PROJECT_DIR$/OOP/Classes.py" />
         <option value="$PROJECT_DIR$/OOP/Operator Overloading.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="398" />
-    <option name="y" value="79" />
-    <option name="width" value="922" />
-    <option name="height" value="808" />
+    <option name="x" value="38" />
+    <option name="y" value="-14" />
+    <option name="width" value="814" />
+    <option name="height" value="867" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -156,6 +192,11 @@
             <path>
               <item name="Python-Basics" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Basics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithims" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python-Basics" type="b2602c69:ProjectViewProjectNode" />
@@ -174,14 +215,14 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sal_m\3D Objects\Python-Basics" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sal_m\3D Objects\Python-Basics\Challenges\Stocks" />
       <recent name="C:\Users\sal_m\3D Objects\Python-Basics\Challenges" />
       <recent name="C:\Users\sal_m\3D Objects\Python-Basics\Data Types" />
       <recent name="C:\Users\sal_m\3D Objects\Python-Basics\Flow Control" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\sal_m\3D Objects\Python-Basics" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -196,8 +237,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bin">
-    <configuration name="Find Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Operator Overloading">
+    <configuration name="Classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,11 +246,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Challenges/HackerRank Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Challenges/HackerRank Problems/Find Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Classes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,7 +259,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="First repeating Char in Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Operator Overloading" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,53 +267,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Challenges/HackerRank Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Challenges/HackerRank Problems/First repeating Char in Array" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="String Mutation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Basics" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Challenges/HackerRank Problems" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Challenges/HackerRank Problems/String Mutation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="bin" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-Basics" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Challenges/HackerRank Problems" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Challenges/HackerRank Problems/bin.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Operator Overloading.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -302,20 +301,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="find missing number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Challenges/HackerRank Problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Challenges/HackerRank Problems/find missing number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reverse array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-Basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Challenges/HackerRank Problems" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Challenges/HackerRank Problems/reverse array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.String Mutation" />
-      <item itemvalue="Python.First repeating Char in Array" />
-      <item itemvalue="Python.Find Sum" />
-      <item itemvalue="Python.bin" />
+      <item itemvalue="Python.find missing number" />
+      <item itemvalue="Python.reverse array" />
       <item itemvalue="Python.evensort" />
+      <item itemvalue="Python.Classes" />
+      <item itemvalue="Python.Operator Overloading" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.bin" />
+        <item itemvalue="Python.Operator Overloading" />
+        <item itemvalue="Python.Classes" />
+        <item itemvalue="Python.reverse array" />
         <item itemvalue="Python.evensort" />
-        <item itemvalue="Python.First repeating Char in Array" />
-        <item itemvalue="Python.Find Sum" />
-        <item itemvalue="Python.String Mutation" />
+        <item itemvalue="Python.find missing number" />
       </list>
     </recent_temporary>
   </component>
@@ -335,12 +376,12 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14828898" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14828898" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32944608" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49683145" visible="true" weight="0.3180593" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49683145" weight="0.3207547" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -508,20 +549,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Challenges/HackerRank Problems/SecondLargestNumberInAList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Challenges/HackerRank Problems/String Mutation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Variables.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -543,41 +570,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Challenges/HackerRank Problems/Find Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Challenges/HackerRank Problems/First repeating Char in Array">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="11" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Challenges/HackerRank Problems/evensort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP/Classes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Challenges/HackerRank Problems/bin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -595,10 +587,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OOP/Operator Overloading.py">
+    <entry file="file://$PROJECT_DIR$/Challenges/HackerRank Problems/SecondLargestNumberInAList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Challenges/HackerRank Problems/find missing number" />
+    <entry file="file://$PROJECT_DIR$/Algorithims/Merge Sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Challenges/HackerRank Problems/String Mutation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Challenges/HackerRank Problems/First repeating Char in Array">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Challenges/HackerRank Problems/reverse array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Challenges/HackerRank Problems/find missing number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <marker date="1540874358454" expanded="true" signature="244:249" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/Classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="2" column="72" selection-start-line="2" selection-start-column="72" selection-end-line="2" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Challenges/HackerRank Problems/evensort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Challenges/HackerRank Problems/bin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Challenges/HackerRank Problems/Find Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/Operator Overloading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
         </state>
       </provider>
     </entry>
